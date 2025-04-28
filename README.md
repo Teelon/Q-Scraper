@@ -43,7 +43,8 @@ This project is for educational purposes only. The scraped content should not be
 
 https://www.questrade.com/learning/questrade-basics/0-commissions-faq
 
-![1745878028832](image/README/1745878028832.png)
+![Screenshot 2025-04-28 180652](https://github.com/user-attachments/assets/cb03b358-c6a6-4637-90aa-4d524390a935)
+
 
 ## Last Updated
 

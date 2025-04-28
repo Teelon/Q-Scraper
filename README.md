@@ -38,6 +38,13 @@ Each article is stored as a JSON file with the following structure:
 
 This project is for educational purposes only. The scraped content should not be used or construed as financial or investment advice.
 
+
+## Example Output 
+
+https://www.questrade.com/learning/questrade-basics/0-commissions-faq
+
+![1745878028832](image/README/1745878028832.png)
+
 ## Last Updated
 
 April 28, 2025
